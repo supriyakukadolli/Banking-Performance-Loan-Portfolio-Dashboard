@@ -21,7 +21,9 @@ The Business Problem:
 •	Total Payment Received by Month/Year: Tracks the monthly flow of funds, providing essential data for cash flow forecasting and budget management.
 •	Retention Rate (67.24%): A crucial high-level KPI that tells the leadership team the success rate of retaining clients, a direct measure of client satisfaction and long-term revenue stability.
 •	New Client Trend: Tracks client acquisition over time, showing the growth trajectory and the effectiveness of marketing or outreach programs.
+
 The GOAL of the Fine Sight Banking Dashboard is to deliver an interactive visual tool that: Enables bank stakeholders to monitor the financial health and operational efficiency of the loan portfolio. It supports critical decisions related to credit risk assessment, resource allocation (branch comparison), and optimization of lending product profitability...
+
 • Walkthrough of Key Visuals
 Here is a walkthrough of the key visuals and interactive elements on your "Fine Sight: Banking Performance & Loan Portfolio Dashboard," explaining what each section shows and the insights it provides, mirroring the structure you provided.
 • Key KPIs (Top Left)
@@ -32,41 +34,52 @@ These cards provide the immediate, high-level financial snapshot of the analyzed
 •	Retention Rate (67.24%): The percentage of customers who remain active with the bank over a defined period, a vital measure of client loyalty and long-term stability.
 •	Active Clients (324) / Total Client (1000): Provides context on the size of the client base and the proportion currently engaged in lending products.
 • Filter Panel (Top Right Slicers)
+
 These interactive slicers allow users to dissect the portfolio data for deeper analysis.
 •	Year, Month Name: Enables time-based trend analysis, allowing managers to focus on a specific quarter or month to review performance or investigate anomalies.
 •	Grade: Filters the data by the bank's internal customer segmentation or risk rating, allowing users to assess the performance of high-risk vs. low-risk clientele.
 •	Branch Name: (Likely on the second page/tab) Allows a focus on the operational performance and loan portfolio health of a single branch.
 • Good Loan vs. Bad Loan (Donut Chart)
+
 This is a critical risk visualization used for immediate assessment of portfolio quality.
 •	What it shows: The proportion of the total loan portfolio that is currently performing well (Good Loan) versus the portion that is non-performing or in default (Bad Loan).
 •	Helps Identify: The bank's overall Non-Performing Loan (NPL) ratio and allows for benchmarking against industry standards.
 • Repayment Behavior (Bar Chart)
+
 This visual breaks down the status of all active loans based on adherence to the repayment schedule.
 •	What it shows: The volume of loans categorized as On-Time, Late, and Very Late (or in a similar delinquency status).
 •	Helps Identify: Early warning signs of distress. The bank can use this to prioritize collection efforts on accounts transitioning from Late to Very Late.
 • Total Loans Per Branch (Bar Chart)
+
 This chart compares the operational output and scale across the bank's physical locations.
 •	What it shows: The number of loans originated or the total loan volume (amount) attributed to specific branches (e.g., Agra, Asansol).
 •	Helps Identify: Which branches are the highest volume generators and aids in resource allocation (staffing, marketing budgets).
 • Product Profitability (Bar Chart)
+
 This chart is key for strategic planning and optimizing the product mix.
 •	What it shows: The profit generated or the volume of loans for each specific lending product (e.g., JLG30K, Home Loan, Car Loan).
 •	Helps Identify: The most financially successful products to determine where marketing and sales efforts should be concentrated.
 • New Client Trend (Line Chart)
+
 These visual tracks the bank's ability to grow its customer base over time.
 •	What it shows: The count of new clients acquired over a timeline (e.g., month-over-month or year-over-year).
 •	Helps Identify: The effectiveness of client acquisition strategies and aids in forecasting future client growth.
 • Branch Performance / Interest Rate by Purpose (Charts)
+
 These visuals provide granular details for risk and operational review.
 •	Branch Performance (Treemap/Map): Categorizes branches as High, Medium, or Low performance (likely based on profitability or loan quality), aiding in quick operational assessment.
 •	Interest Rate by Purpose (Bar Chart): Compares the average interest rate applied to different loan categories (e.g., Services, Home Loan). This helps analysts confirm that riskier loan purposes are being priced appropriately.
+
 Here is the business impact and key insights delivered by the "FinSight: Banking Performance & Loan Portfolio Dashboard":
+
 💼 Business Impact & Insights
 •	Risk Mitigation & Provisioning: Enables the Finance team to proactively manage credit risk by identifying high-risk segments (e.g., specific income ranges or loan purposes) and accurately setting provisions based on the Good vs. Bad Loan ratio.
 •	Operational Efficiency & Strategy: Allows bank managers to benchmark and reward branch performance based on volume and loan quality, leading to optimized resource allocation and the adoption of successful lending practices across the organization.
 •	Profitability Optimization: Provides clear data on Product Profitability and Interest Income drivers, guiding executive decisions on which loan products to promote or discontinue to maximize revenue.
 •	Client Management & Retention: Monitors the Retention Rate and New Client trends, offering insights to the CRM and Marketing teams on improving customer loyalty and growing the active client base.
+
 6. Screenshots 
 https://github.com/supriyakukadolli/Banking-Performance-Loan-Portfolio-Dashboard/blob/banking-performance-dashborad/Banking%20Performance%20Dashborad.png
+
 https://github.com/supriyakukadolli/Banking-Performance-Loan-Portfolio-Dashboard/blob/banking-performance-dashborad/Bank%20Loan%20Report.png
 
