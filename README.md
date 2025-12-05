@@ -2,16 +2,21 @@
 I developed a comprehensive project in PowerBI, creating multiple dashboard and tables to analyze the data. This process involves the several stages, including preprocessing and dashboard
 1. Banking Performance & Loan Portfolio Dashboard
 A comprehensive, interactive analytics suite designed to monitor the health of bank loan portfolios and operational efficiency. It unifies critical financial KPIs—such as total funded amounts, interest income, and retention rates—with deep-dive analytics into repayment behavior, branch performance trends, and client risk profiles (Good vs. Bad loans) to drive data-led lending strategies.
+
 2. Short Description / Purpose
 The Fine Sight Banking Dashboard is a dynamic and data-rich PowerBI report designed to enable financial stakeholders to monitor and analyze the health of a 52M loan portfolio across various branches and client segments. The dashboard focuses on highlighting critical KPIs such as repayment behavior, good VS bad loan ratios, product profitability, and interest income trends over time. This tool is intended for use by bank managers, credit risk analysts, and financial strategists who seek to optimize operational efficiency and minimize credit risk through data-driven insights.
+
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
 •	Power Query – The ETL (Extract, Transform, Load) engine used for data cleaning, type conversion, and reshaping raw banking data for analysis.
 •	 DAX (Data Analysis Expressions) – Utilized to create complex calculated measures and enable dynamic time-intelligence filtering.
 •	Data Modeling – Relationships were established between fact tables  and dimension tables to support robust cross-filtering and slicing.
+
 4. Data Source
 The data for this dashboard is typical of a banking portfolio analysis project. Given the level of detail on client demographics, loan status, and branch performance, the underlying data would likely be sourced from a bank's internal systems.
+
 5. Features / Highlights
+
 The Business Problem: 
 •	Good Loan vs. Bad Loan Ratio: Provides immediate visibility into the quality of the portfolio (88.99%$Good vs. 11.01% Bad), enabling management to track the Non-Performing Loan (NPL) rate and set risk tolerance levels.
 •	Repayment Behavior: Categorizing repayments (On-Time, Late, Very Late) allows the bank to identify borrowers moving toward default before they become "Bad Loans," enabling proactive collections efforts.
