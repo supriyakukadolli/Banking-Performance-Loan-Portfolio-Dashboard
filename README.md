@@ -19,12 +19,19 @@ The data for this dashboard is typical of a banking portfolio analysis project. 
 
 The Business Problem: 
 •	Good Loan vs. Bad Loan Ratio: Provides immediate visibility into the quality of the portfolio (88.99%$Good vs. 11.01% Bad), enabling management to track the Non-Performing Loan (NPL) rate and set risk tolerance levels.
+
 •	Repayment Behavior: Categorizing repayments (On-Time, Late, Very Late) allows the bank to identify borrowers moving toward default before they become "Bad Loans," enabling proactive collections efforts.
+
 •	Client Income Range & Interest Rate by Purpose: Helps analysts correlate risk factors (like low income or certain loan purposes) with default rates, informing future underwriting policies.
+
 •	Total Loans Per Branch / Branch Performance: Allows the regional manager to benchmark the performance of branches (e.g., Agra vs. Asansol), identifying high-performing branches for best-practice sharing and underperforming ones that require coaching or attention.
+
 •	Product Profitability: Clearly shows which loan products (e.g., JLG30K) are most profitable, guiding the sales team on where to focus marketing and sales efforts.
+
 •	Total Payment Received by Month/Year: Tracks the monthly flow of funds, providing essential data for cash flow forecasting and budget management.
+
 •	Retention Rate (67.24%): A crucial high-level KPI that tells the leadership team the success rate of retaining clients, a direct measure of client satisfaction and long-term revenue stability.
+
 •	New Client Trend: Tracks client acquisition over time, showing the growth trajectory and the effectiveness of marketing or outreach programs.
 
 The GOAL of the Fine Sight Banking Dashboard is to deliver an interactive visual tool that: Enables bank stakeholders to monitor the financial health and operational efficiency of the loan portfolio. It supports critical decisions related to credit risk assessment, resource allocation (branch comparison), and optimization of lending product profitability...
